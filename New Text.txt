@@ -1,0 +1,3 @@
+Hi
+My name is Solomon
+This is my New Git text file.
